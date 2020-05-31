@@ -1,0 +1,15 @@
+{
+  "name": "vorlesung",
+  "version": "1.0.0",
+  "description": "Renders diamond on console",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
